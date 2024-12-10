@@ -1,7 +1,10 @@
 # 💫About Me :
 Hi 👋, I'm Chien
-🔭 I’m currently working on HIT club - Hau I
+
+🔭 I’m currently working on HIT club - HaUI
+
 🌱 I’m currently learning CV, NLP, LLM to become an AI engineer
+
 📫 How to reach me 0854013616 || duychien25102004@gmail.com
 
 ## 🌐Socials
