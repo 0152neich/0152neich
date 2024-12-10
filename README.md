@@ -1,11 +1,8 @@
 # 💫About Me :
-Hi 👋, I'm Chien
-
-🔭 I’m currently working on HIT club - HaUI
-
-🌱 I’m currently learning CV, NLP, LLM to become an AI engineer
-
-📫 How to reach me 0854013616 || duychien25102004@gmail.com
+- Hi 👋, I'm Chien
+- 🔭 I’m currently working on HIT club - HaUI
+- 🌱 I’m currently learning CV, NLP, LLM to become an AI engineer
+- 📫 How to reach me 0854013616 || duychien25102004@gmail.com
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/neihc5201) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/neihc5201) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chiến-đào-695a782b9) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22031053) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@dyoub09lybg4) 
