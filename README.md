@@ -1,7 +1,6 @@
 # 💫About Me :
 - Hi 👋, I'm Chien
-- 🔭 I’m currently working on HIT club - HaUI
-- 🌱 I’m currently learning CV, NLP, LLM to become an AI engineer
+- 🌱 I’m an AI enginner in [ATIN]{https://atin.com.vn/vi/}
 - 📫 How to reach me 0854013616 || duychien25102004@gmail.com
 
 ## 🌐Socials
